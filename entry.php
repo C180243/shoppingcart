@@ -1,3 +1,11 @@
+<?php
+require_once("funx.php");
+$items = createItems();
+
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="ja">
 
